@@ -1,0 +1,93 @@
+﻿**********************
+Inicio de la transcripción de Windows PowerShell
+Hora de inicio: 20260701133929
+Nombre de usuario: DESKTOP-P32I2FE\oscar
+Usuario RunAs: DESKTOP-P32I2FE\oscar
+Nombre de la configuración: 
+Máquina: DESKTOP-P32I2FE (Microsoft Windows NT 10.0.26200.0)
+Aplicación host: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Id. de proceso: 9536
+PSVersion: 5.1.26100.8737
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.8737
+BuildVersion: 10.0.26100.8737
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+La transcripción ha comenzado. El archivo de salida es c:\Users\oscar\OneDrive\Desktop\Bar\install.log
+Iniciando instalacion de herramientas DevOps...
+Instalando Azure CLI...
+Chocolatey v2.7.2
+Installing the following packages:
+azure-cli
+By installing, you accept licenses for the packages.
+azure-cli v2.87.0 already installed.
+ Use --force to reinstall, specify a version to install, or try upgrade.
+
+Chocolatey installed 0/1 packages.
+ See the log for details (C:\ProgramData\chocolatey\logs\chocolatey.log).
+
+Warnings:
+ - azure-cli - azure-cli v2.87.0 already installed.
+ Use --force to reinstall, specify a version to install, or try upgrade.
+Instalando/Actualizando Windows PowerShell...
+Chocolatey v2.7.2
+Installing the following packages:
+powershell
+By installing, you accept licenses for the packages.
+PowerShell v5.1.14409.20180811 already installed.
+ Use --force to reinstall, specify a version to install, or try upgrade.
+
+Chocolatey installed 0/1 packages.
+ See the log for details (C:\ProgramData\chocolatey\logs\chocolatey.log).
+
+Warnings:
+ - PowerShell - PowerShell v5.1.14409.20180811 already installed.
+ Use --force to reinstall, specify a version to install, or try upgrade.
+Instalando la extension containerapp en Azure CLI...
+No stable version of 'containerapp' to install. Preview versions allowed.
+Extension 'containerapp' 1.3.0b4 is already installed.
+
+--- VERIFICACION DE INSTALACIONES ---
+Version de Chocolatey:
+2.7.2
+Version de Azure CLI:
+azure-cli                         2.87.0
+
+core                              2.87.0
+telemetry                          1.1.0
+
+Extensions:
+containerapp                     1.3.0b4
+
+Dependencies:
+msal                              1.36.0
+azure-mgmt-resource               24.0.0
+
+Python location 'C:\Program Files\Microsoft SDKs\Azure\CLI2\python.exe'
+Config directory 'C:\Users\oscar\.azure'
+Extensions directory 'C:\Users\oscar\.azure\cliextensions'
+
+Python (Windows) 3.13.13 (tags/v3.13.13:01104ce, Apr  7 2026, 19:25:48) [MSC v.1944 64 bit (AMD64)]
+
+Legal docs and information: aka.ms/AzureCliLegal
+
+
+Your CLI is up-to-date.
+Extensiones de Azure CLI instaladas:
+Experimental    ExtensionType    Name          Path                                              Preview    Version
+--------------  ---------------  ------------  ------------------------------------------------  ---------  ---------
+False           whl              containerapp  C:\Users\oscar\.azure\cliextensions\containerapp  True       1.3.0b4
+Version de PowerShell:
+
+Major  Minor  Build  Revision
+-----  -----  -----  --------
+5      1      26100  8737
+
+Instalacion y verificacion finalizadas. Puedes cerrar esta ventana.
+**********************
+Fin de la transcripción de Windows PowerShell
+Hora de finalización: 20260701133942
+**********************
